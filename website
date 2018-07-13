@@ -1,6 +1,13 @@
-<html> 
+<!doctype html>
 
-<p> Hi </p>
-
-
+<html>
+  <title>Welcome to Ozwidesupplies!</title>
+    <body>
+      <h1>At Ozwidesupplies, we supply.</h1>
+      <ul>
+        <li>Home</li>
+        <li><a href="product.html">Product</a></li>
+        <li><a href="about_us.html">About us</a></li>
+      </ul>
+    </body>
 </html>
